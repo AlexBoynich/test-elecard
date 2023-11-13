@@ -1,0 +1,13 @@
+.header {
+    height: 100px;
+    width: 100%;
+    background: #b3d4fc;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+}
